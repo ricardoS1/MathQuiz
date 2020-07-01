@@ -1,0 +1,72 @@
+[
+  {"questionId": 1,
+    "value1": 3,
+    "operator": "*",
+    "value2": 4
+},
+  {"questionId": 2,
+    "value1": 2,
+    "operator": "+",
+    "value2": 5
+  },
+
+  {"questionId": 3,
+    "value1": 6,
+    "operator": "-",
+    "value2": 4
+  },
+
+  {"questionId": 4,
+    "value1": 9,
+    "operator": "/",
+    "value2": 3
+  },
+
+  {"questionId": 5,
+    "value1": 12,
+    "operator": "*",
+    "value2": 6
+  },
+
+  {"questionId": 6,
+    "value1": 52,
+    "operator": "/",
+    "value2": 4
+  },
+
+  {"questionId": 7,
+    "value1": 72,
+    "operator": "+",
+    "value2": 36
+  },
+
+  {"questionId": 8,
+    "value1": 98,
+    "operator": "-",
+    "value2": 66
+  },
+
+  {"questionId": 9,
+    "value1": 9,
+    "operator": "*",
+    "value2": 5
+  },
+
+  {"questionId": 10,
+    "value1": 150,
+    "operator": "/",
+    "value2": 4
+  },
+
+  {"questionId": 11,
+    "value1": 132,
+    "operator": "-",
+    "value2": 49
+  },
+
+  {"questionId": 12,
+    "value1": 12,
+    "operator": "*",
+    "value2": 6
+  }
+]

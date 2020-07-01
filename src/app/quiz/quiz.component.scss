@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+$primary: rgb(7, 107, 3);
+
+body{
+  height: 100%;
+  margin: 0;
+  font-family: 'Cormorant Garamond';
+  font-size: 25pt;
+  background-color: white;
+}
+
+.container{
+  width: 93%;
+  height: 50%;
+  margin: 0 auto;
+}
+
+header{
+  background: $primary;
+  padding: 1em 0 ;
+
+  a{
+    color: white;
+  }
+
+  a.logo{
+    font-weight: bold;
+    font-family: "Cormorant Garamond" ;
+    font-size: 14pt;
+  }
+
+  nav{
+    float: right;
+
+    ul{
+      list-style-type: none;
+      margin: 0;
+      display: flex;
+
+      li a{
+        padding: 1em;
+
+        &:hover{
+          background: darken($primary, 4%);
+        }
+      }
+    }
+  }
+}
+.instructiontext{
+    font-weight: bold;
+    font-family: "Cormorant Garamond" ;
+    font-size: 30pt;
+    padding-top: 100px;
+}
+.form_style{
+  margin: 0 auto;
+  width:60%
+}
+html {
+  height: 100%;
+}
+
